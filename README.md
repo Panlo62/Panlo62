@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Panlo62
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Panlo62/Panlo62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in coding, software development and a little bit in web development
+- 🌱 My hobbies are drawing, singing, playing badminton and reading novels.
+- 💞️ Open for collaboration
+- 📫 Deploying my portfolio website soon. Look forward to it.
+- You can email me at <a href="mailto: pankaj6255dav@gmail.com>pankaj6255dav@gmail.com</a> or whatsapp me at <b>8368590184</b>
