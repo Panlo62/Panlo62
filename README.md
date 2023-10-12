@@ -1,4 +1,4 @@
-👋 Hi, I’m @Panlo62<br />
+👋 Hi, I’m Pankaj Tyagi<br />
 👀 I’m interested in coding, software development and a little bit in web development<br />
 🌱 My hobbies are drawing, singing, playing badminton and reading novels.<br />
 💞️ Open for collaboration<br />
